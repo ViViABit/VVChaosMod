@@ -1,0 +1,79 @@
+{
+  "mod_elements": [
+    {
+      "name": "BlackLungOnEffectActiveTick",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_lung_on_effect_active_tick",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "MeatBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meat_block"
+    },
+    {
+      "name": "Vein",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vein"
+    },
+    {
+      "name": "Meatbiome",
+      "type": "biome",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meatbiome"
+    },
+    {
+      "name": "Muscle",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "muscle"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "biome.vvs_chaos_mod.meatbiome": "Meat Biome",
+      "block.vvs_chaos_mod.muscle": "Muscle",
+      "block.vvs_chaos_mod.vein": "Vein",
+      "block.vvs_chaos_mod.meat_block": "Meat Block"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "vvs_chaos_mod",
+    "modName": "VV\u0027s Chaos Mod",
+    "version": "1.0.0",
+    "author": "epicm, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.vvschaosmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

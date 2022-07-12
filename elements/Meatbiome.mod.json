@@ -1,0 +1,115 @@
+{
+  "_fv": 28,
+  "_type": "biome",
+  "definition": {
+    "name": "Meat Biome",
+    "groundBlock": {
+      "value": "CUSTOM:MeatBlock"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Muscle"
+    },
+    "underwaterBlock": {
+      "value": "CUSTOM:Vein"
+    },
+    "airColor": {
+      "value": -13108,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -26215,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -52429,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -10092544,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -10092544,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": "ambient.soul_sand_valley.additions"
+    },
+    "music": {
+      "value": "ambient.warped_forest.loop"
+    },
+    "moodSound": {
+      "value": "ambient.crimson_forest.mood"
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "WHITE_ASH"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "NONE",
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": true,
+    "spawnBiomeNether": false,
+    "spawnInCaves": true,
+    "biomeWeight": 10,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 1,
+    "bigMushroomsChunk": 1,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Mega pine trees",
+    "treeType": 1,
+    "minHeight": 7,
+    "treeStem": {
+      "value": "CUSTOM:Vein"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:MeatBlock"
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": true,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "STANDARD",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": []
+  }
+}

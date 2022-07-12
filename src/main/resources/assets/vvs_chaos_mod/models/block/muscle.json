@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "vvs_chaos_mod:blocks/muscle",
+    "particle": "vvs_chaos_mod:blocks/muscle"
+  }
+}

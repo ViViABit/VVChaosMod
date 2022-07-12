@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vvs_chaos_mod:blocks/veintop",
+    "up": "vvs_chaos_mod:blocks/veintop",
+    "north": "vvs_chaos_mod:blocks/vein",
+    "east": "vvs_chaos_mod:blocks/vein",
+    "south": "vvs_chaos_mod:blocks/vein",
+    "west": "vvs_chaos_mod:blocks/vein",
+    "particle": "vvs_chaos_mod:blocks/veintop"
+  }
+}

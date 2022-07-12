@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "vvs_chaos_mod:block/meat_block"
+    },
+    "facing=east": {
+      "model": "vvs_chaos_mod:block/meat_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "vvs_chaos_mod:block/meat_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "vvs_chaos_mod:block/meat_block",
+      "y": 270
+    }
+  }
+}

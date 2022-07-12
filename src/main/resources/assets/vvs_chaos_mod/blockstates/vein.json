@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "vvs_chaos_mod:block/vein",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "vvs_chaos_mod:block/vein"
+    },
+    "axis=z": {
+      "model": "vvs_chaos_mod:block/vein",
+      "x": 90
+    }
+  }
+}
